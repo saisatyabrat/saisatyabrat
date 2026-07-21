@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Sai Satyabrat Biswal, a highly motivated fresher with a strong educational background in Computer Science. Currently, I am pursuing studies in Data Science
-
+I am Sai Satyabrat Biswal, a Computer Science graduate who has completed Data Science training and is actively seeking opportunities in Data Science, AI, and Machine Learning.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saisatyabratbiswal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisatyabratbiswal/) 
